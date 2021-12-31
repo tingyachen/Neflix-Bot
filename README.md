@@ -8,14 +8,14 @@
 [Custom Search JSON API](https://developers.google.com/custom-search/v1/overview)
 
 ## 使用說明
-1. 輸入@help會顯示指令教學<br>
+1. 輸入 @help 顯示指令教學<br>
    ![](https://github.com/tingyachen/bot-final/blob/master/images/help1.jpg)<br><br>
    
-2. 輸入@namet查詢影劇評價<br>
+2. 輸入 @name 查詢影劇評價<br>
    ![](https://github.com/tingyachen/bot-final/blob/master/images/name1.jpg)<br><br>
 
-3. 輸入@good顯示編輯推薦片單<br>
+3. 輸入 @good 顯示推薦片單<br>
    ![](https://github.com/tingyachen/bot-final/blob/master/images/good1.jpg)<br><br>
 
-4. 輸入@talk查詢PTT討論串<br>
+4. 輸入 @talk 查詢PTT討論串<br>
    ![](https://github.com/tingyachen/bot-final/blob/master/images/talk1.jpg)<br><br>
